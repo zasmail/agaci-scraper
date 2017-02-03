@@ -5,4 +5,5 @@ source "https://rubygems.org"
 gem 'byebug'
 gem 'nokogiri'
 gem 'progress_bar'
+gem 'algoliasearch'
 # gem "rails"

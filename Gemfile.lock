@@ -1,8 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    algoliasearch (1.12.6)
+      httpclient (~> 2.8.3)
+      json (>= 1.5.1)
     byebug (9.0.6)
     highline (1.7.8)
+    httpclient (2.8.3)
+    json (2.0.3)
     mini_portile2 (2.1.0)
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
@@ -15,6 +20,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  algoliasearch
   byebug
   nokogiri
   progress_bar
