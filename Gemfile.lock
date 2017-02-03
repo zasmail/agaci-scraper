@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.0.6)
+    highline (1.7.8)
+    mini_portile2 (2.1.0)
+    nokogiri (1.7.0.1)
+      mini_portile2 (~> 2.1.0)
+    options (2.3.2)
+    progress_bar (1.1.0)
+      highline (~> 1.6)
+      options (~> 2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  nokogiri
+  progress_bar
+
+BUNDLED WITH
+   1.13.6
